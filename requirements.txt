@@ -1,0 +1,6 @@
+requests==2.11.1
+flask==0.11.0
+flask-restful==0.3.5
+click==5.0
+gunicorn==19.6.0
+influxdb==4.1.1
